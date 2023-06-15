@@ -1,5 +1,7 @@
 # Playing and editing Cinematic mode video
 
+[Source](https://developer.apple.com/documentation/cinematic/playing_and_editing_cinematic_mode_video)
+
 Play and edit Cinematic mode video with an adjustable depth of field and focus points.
 
 ## Overview
